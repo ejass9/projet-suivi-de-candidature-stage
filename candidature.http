@@ -1,0 +1,5 @@
+### Toutes les candidatures
+GET http://localhost:8080/api/candidature
+
+###
+DELETE http://localhost:8080/api/candidature/1

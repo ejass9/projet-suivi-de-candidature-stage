@@ -4,7 +4,8 @@ import java.time.LocalDateTime;
 
 public record Candidature (
     Integer id,
-    String desc,
+    String LibelleEntreprise,
+    String contactEntreprise,
     Status status,
     LocalDateTime dateDeCreation,
     LocalDateTime dateDeRelance,
