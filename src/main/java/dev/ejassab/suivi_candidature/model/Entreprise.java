@@ -1,51 +1,27 @@
 package dev.ejassab.suivi_candidature.model;
 
+
+import jakarta.annotation.Nonnull;
+import jakarta.persistence.*;
+import lombok.*;
+
+
+@Entity
+@Table(name = "entreprises")
+@Getter @Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public  class Entreprise {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
+    @Nonnull
     private String nom;
+
     private Contact contact;
+    private  String mailContact;
+
     private String ville;
+
     private String adresse;
-
-    public Entreprise(Integer id, String nom, String ville){
-        this.id = id;
-        this.nom = nom;
-        this.ville = ville;
-    }
-    public Entreprise(Integer id, String nom, String ville, String adresse) {
-        this.id = id;
-        this.nom = nom;
-        this.ville = ville;
-        this.adresse = adresse;
-    }
-
-    public Integer getId() {
-        return id;
-    }
-    public void setId(Integer id) {
-        this.id = id;
-    }
-    public String getNom() {
-        return nom;
-    }
-
-    public void setNom(String nom) {
-        this.nom = nom;
-    }
-
-    public String getVille() {
-        return ville;
-    }
-
-    public void setVille(String ville) {
-        this.ville = ville;
-    }
-
-    public String getAdresse() {
-        return adresse;
-    }
-
-    public void setAdresse(String adresse) {
-        this.adresse = adresse;
-    }
 }

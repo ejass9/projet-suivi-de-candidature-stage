@@ -1,14 +1,16 @@
 package dev.ejassab.suivi_candidature.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "contacts")
 public class Contact {
     private Integer id;
     private String nom;
     private String email;
 
-    public Contact(Integer id,String email) {
-        this.id = id;
-        this.email = email;
-    }
+
     public Contact(Integer id, String nom, String email) {
         this.id = id;
         this.nom = nom;
