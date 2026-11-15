@@ -58,6 +58,49 @@ Séance 2 – [12/11/2026]
     - Étudier et comprendre l'API REST : Actions du CRUD (Create, Read, Update, Delete)
     - Étudier et comprendre les ORM afin de pour utiliser le module Spring Data JPA pour mapper mes modèles objets et modèles entités 
     - Étudier et comprendre les contrôleurs, service et repository
+Séance 3 – [14/11/2026]
+1. Objectifs de la séance
+    - Étudier et comprendre l'API REST : Actions du CRUD (Create, Read, Update, Delete)
+    - Étudier et comprendre les ORM afin de pour utiliser le module Spring Data JPA pour mapper mes modèles objets et modèles entités 
+    - Étudier et comprendre les contrôleurs, service et repository
+2. Travaux réalisés
+    - introduction aux action du CRUD
+    - J'ai appris le rôle précis chaque action du CRUD (GET: obtenir une ressource/collection de ressources, POST: créer un ressource, PUT/PATCH: la mettre à jour, DELETE: la supprimer)
+    - J'ai appronfondi ma connaissance sur ce qu'est l'authenfication
+    - J'ai appris ce qu'est un token et son rôle dans l'accès d'une API privée
+    - J'ai découvert l'outil POSTMAN,
+    - Je me suis entrainé à envoyer des requêtes soit pour obtenir des ressources, soit pour les créer, les mettre à jour ou bien les supprimer
+
+3. Difficultés rencontrées
+    - 
+4. Solutions apportées / envisagées
+    - 
+5. Résultats obtenus
+    - Je commence à avoir un schéma encore plus de ce représente un API REST
+6. Travail restant
+    - [Partie 3 du cours](https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web)
+7. Objectifs de la prochaine séance
+    - Étudier et comprendre l'API REST : Actions du CRUD (Create, Read, Update, Delete)
+    - Étudier et comprendre les ORM afin de pour utiliser le module Spring Data JPA pour mapper mes modèles objets et modèles entités 
+    - Étudier et comprendre les contrôleurs, service et repository
+Séance 3 – [15/11/2026]
+1. Objectifs de la séance
+    - Étudier et comprendre l'API REST : Actions du CRUD (Create, Read, Update, Delete)
+2. Travaux réalisés
+    - J'ai appris à définir la structure d'un API REST (rôle de mon API, ressources, accès)
+    - J'ai appris à concevoir les endpoints de mon API(les ressources, les actions appliquées aux ressources)
+    - J'ai appris les fonctionnalités avancées des endpoints(filtrer, rechercher, trier, versionner)
+3. Difficultés rencontrées
+    - 
+4. Solutions apportées / envisagées
+    - 
+5. Résultats obtenus
+    - Je commence à avoi un schéma encore plus de ce représente un API REST
+6. Travail restant
+    - [Partie 3 du cours] (https://openclassrooms.com/fr/courses/6900101-creez-une-application-java-avec-spring-boot/7078007-creez-l-api-avec-les-bons-starters)
+7. Objectifs de la prochaine séance
+    - Étudier et comprendre les ORM afin de pour utiliser le module Spring Data JPA pour mapper mes modèles objets et modèles entités 
+    - Étudier et comprendre les contrôleurs, service et repository
 Bilan de la semaine 01
 Travaux accomplis :
 Difficultés principales :
