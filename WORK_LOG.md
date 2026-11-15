@@ -102,7 +102,7 @@ Séance 3 – [15/11/2026]
 6. Travail restant
     - (Re) Concevoir mes entités
     - Concevoir les contrôleurs, services, et repos de ces entités 
-    - Concevoir les relations entre les entités comme dans le mcd (@onetomany)
+    - Concevoir les relations entre les entités comme dans le mcd (@onetomany ... )
 7. Objectifs de la prochaine séance
     - Concevoir les contrôleurs, services, et repos des entités présentes dans mon mcd
     - Essayer de dynamiser mes requêtes et intéragir avec la bdd
