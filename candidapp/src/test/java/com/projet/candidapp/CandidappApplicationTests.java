@@ -1,10 +1,10 @@
-package dev.ejassab.suivi_candidature;
+package com.projet.candidapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SuiviCandidatureApplicationTests {
+class CandidappApplicationTests {
 
 	@Test
 	void contextLoads() {

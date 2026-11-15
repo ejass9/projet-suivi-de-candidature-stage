@@ -90,17 +90,23 @@ Séance 3 – [15/11/2026]
     - J'ai appris à définir la structure d'un API REST (rôle de mon API, ressources, accès)
     - J'ai appris à concevoir les endpoints de mon API(les ressources, les actions appliquées aux ressources)
     - J'ai appris les fonctionnalités avancées des endpoints(filtrer, rechercher, trier, versionner)
+    - J'ai visionné mes données avec un base de données statiques d'entreprises 
+    - J'ai appris les rôles des repository, service, controller
+    - J'ai appris le module ORM
 3. Difficultés rencontrées
     - 
 4. Solutions apportées / envisagées
     - 
 5. Résultats obtenus
-    - Je commence à avoi un schéma encore plus de ce représente un API REST
+    - 
 6. Travail restant
-    - [Partie 3 du cours] (https://openclassrooms.com/fr/courses/6900101-creez-une-application-java-avec-spring-boot/7078007-creez-l-api-avec-les-bons-starters)
+    - (Re) Concevoir mes entités
+    - Concevoir les contrôleurs, services, et repos de ces entités 
+    - Concevoir les relations entre les entités comme dans le mcd (@onetomany)
 7. Objectifs de la prochaine séance
-    - Étudier et comprendre les ORM afin de pour utiliser le module Spring Data JPA pour mapper mes modèles objets et modèles entités 
-    - Étudier et comprendre les contrôleurs, service et repository
+    - Concevoir les contrôleurs, services, et repos des entités présentes dans mon mcd
+    - Essayer de dynamiser mes requêtes et intéragir avec la bdd
+    
 Bilan de la semaine 01
 Travaux accomplis :
 Difficultés principales :
